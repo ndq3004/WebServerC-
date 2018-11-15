@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\admin\source\repos\webserver\webserver\source.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\source\repos\webserver\webserver\source.cpp(46): warning C4101: 'tmp': unreferenced local variable
+  WebServer.vcxproj -> C:\Users\Admin\source\repos\WebServer\x64\Debug\WebServer.exe
